@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "title 2",
+      "note": "ghi chú 2",
+      "image": "https://znews-photo.zadn.vn/w660/Uploaded/neg_yslewlx/2022_03_25/Keanu_Reeves.jpg",
+      "price": "1980"
+    },
+    {
+      "id": 5,
+      "title": "title 5",
+      "note": "note 5",
+      "image": "https://znews-photo.zadn.vn/w660/Uploaded/bzwvopcg/2022_03_18/beck90.jpeg",
+      "price": "1500"
+    },
+    {
+      "id": 6,
+      "title": "Title 12",
+      "note": "Title 6",
+      "image": "https://znews-photo.zadn.vn/w860/Uploaded/bzwvopcg/2022_03_12/Kardashian_Cover_Story_Variety_F_5_.jpg",
+      "price": "1500"
+    },
+    {
+      "id": 7,
+      "title": "Title 12",
+      "note": "Title 14",
+      "image": "https://znews-photo.zadn.vn/w360/Uploaded/bzwvopcg/2022_03_11/f07a7ff1_a378_468a_a673_e0880a99.jpg",
+      "price": "1500"
+    },
+    {
+      "id": 8,
+      "title": "dsadsa",
+      "note": "dsadas",
+      "image": "https://znews-photo.zadn.vn/w660/Uploaded/bzwvopcg/2022_03_06/13a93fcf_0de1_4924_aec1_f04d32b118a6_8a66ae79.jpg",
+      "price": "12123"
+    },
+    {
+      "id": 9,
+      "title": "dasdas",
+      "note": "dsadas",
+      "image": "https://znews-photo.zadn.vn/w860/Uploaded/yrfjpyvslyr/2022_03_26/vanthanh_zing.jpg",
+      "price": "31231"
+    }
+  ],
+  "signup": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456789",
+      "address": "434324523423",
+      "phone": "0932023992",
+      "id": 1
+    }
+  ]
+}
