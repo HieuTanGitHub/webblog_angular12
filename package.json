@@ -2,7 +2,6 @@
   "name": "crudapp",
   "version": "0.0.0",
   "homepage": "https://hieutangithub.github.io/webblog_angularjs12/",
-
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
